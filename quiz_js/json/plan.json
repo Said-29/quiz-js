@@ -1,0 +1,28 @@
+[
+    {
+        "plan": "Free",
+        "price": "$0",
+        "users": "10 users included",
+        "storage": "2GB of storage",
+        "email": "Email Support",
+        "other": "Help center access",
+        "option": "Sign up for free"
+    },
+    {
+        "plan": "Pro",
+        "price": "$15",
+        "users": "20 users included",
+        "storage": "10GB of storage",
+        "email": "Priority Email Support",
+        "other": "Help center access",
+        "option": "Get started"
+    },
+    {
+        "plan": "Enterprise",
+        "price": "$29",
+        "users": "30 users included",
+        "storage": "15GB of storage",
+        "email": "Phone and Email Support",
+        "option": "Contact us"
+    }
+]
